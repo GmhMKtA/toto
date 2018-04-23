@@ -1,7 +1,7 @@
 # Mon projet
 __descripion__
 
-Ceci est une description
+Ceci est une description vraiment très jolie
 
 ## Sous-titre
 - Il
